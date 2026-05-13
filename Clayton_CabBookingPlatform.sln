@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_CabBookingPlatform", "Clayton_CabBookingPlatform\Clayton_CabBookingPlatform.csproj", "{3DE6A90B-99CA-42D2-9E03-D6C9F9513337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_CustomerMicroservice", "Clayton_CustomerMicroservice\Clayton_CustomerMicroservice.csproj", "{ECB830C4-E6B1-4EAA-B3CB-7EC63210F9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_FareMicroservice", "Clayton_FareMicroservice\Clayton_FareMicroservice.csproj", "{62B888CD-9C74-48D7-88A0-6CBC8B39CB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_LocationMicroservice", "Clayton_LocationMicroservice\Clayton_LocationMicroservice.csproj", "{B5B87E1C-3DD7-41A8-8CBC-0A8A0F818573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_PaymentMicroservice", "Clayton_PaymentMicroservice\Clayton_PaymentMicroservice.csproj", "{63B4B4CD-A012-4ED5-8F3F-E7F3B5DCEE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clayton_BookingMicroservice", "Clayton_BookingMicroservice\Clayton_BookingMicroservice.csproj", "{8FFCD123-6500-42EC-9005-05C6D6BC2411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE6A90B-99CA-42D2-9E03-D6C9F9513337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE6A90B-99CA-42D2-9E03-D6C9F9513337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE6A90B-99CA-42D2-9E03-D6C9F9513337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE6A90B-99CA-42D2-9E03-D6C9F9513337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB830C4-E6B1-4EAA-B3CB-7EC63210F9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB830C4-E6B1-4EAA-B3CB-7EC63210F9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB830C4-E6B1-4EAA-B3CB-7EC63210F9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB830C4-E6B1-4EAA-B3CB-7EC63210F9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B888CD-9C74-48D7-88A0-6CBC8B39CB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B888CD-9C74-48D7-88A0-6CBC8B39CB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B888CD-9C74-48D7-88A0-6CBC8B39CB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B888CD-9C74-48D7-88A0-6CBC8B39CB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B87E1C-3DD7-41A8-8CBC-0A8A0F818573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B87E1C-3DD7-41A8-8CBC-0A8A0F818573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B87E1C-3DD7-41A8-8CBC-0A8A0F818573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B87E1C-3DD7-41A8-8CBC-0A8A0F818573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B4B4CD-A012-4ED5-8F3F-E7F3B5DCEE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B4B4CD-A012-4ED5-8F3F-E7F3B5DCEE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B4B4CD-A012-4ED5-8F3F-E7F3B5DCEE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B4B4CD-A012-4ED5-8F3F-E7F3B5DCEE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFCD123-6500-42EC-9005-05C6D6BC2411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFCD123-6500-42EC-9005-05C6D6BC2411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFCD123-6500-42EC-9005-05C6D6BC2411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFCD123-6500-42EC-9005-05C6D6BC2411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

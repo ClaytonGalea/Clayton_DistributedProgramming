@@ -1,0 +1,6 @@
+@Clayton_FareMicroservice_HostAddress = http://localhost:5092
+
+GET {{Clayton_FareMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

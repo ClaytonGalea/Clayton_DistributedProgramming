@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqSpnpjYhJ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Clayt\\OneDrive\\Documents\\Level 6 Year 3\\Distributed Programming\\Clayton_CabBookingPlatform\\Clayton_LocationMicroservice\\Clayton_LocationMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clayt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Clayt\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

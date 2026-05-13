@@ -1,0 +1,6 @@
+@Clayton_BookingMicroservice_HostAddress = http://localhost:5233
+
+GET {{Clayton_BookingMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
